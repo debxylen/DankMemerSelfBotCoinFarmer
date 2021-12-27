@@ -10,4 +10,5 @@ Then in filter search box, type token.
 Copy token value.
 This is your self bot token. This is Dangerous to share until you trust the person
 . because they can use this to DO ANYTHING WITH YOU ACCOUNT!
-they can send messages, and login
+they can send messages, and (maybe) even login to Your account!
+## If you still had problems getting the token, watch one of the plenty videos on youtube or wherever you want telling how to get the self user token!
