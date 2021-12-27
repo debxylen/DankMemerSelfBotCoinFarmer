@@ -13,3 +13,11 @@ This is your self bot token. This is Dangerous to share until you trust the pers
 . because they can use this to DO ANYTHING WITH YOU ACCOUNT!
 they can send messages, and (maybe) even login to Your account!
 ## If you still had problems getting the token, watch one of the plenty videos on youtube or wherever you want telling how to get the self user token!
+
+## TO GET THE CHANNEL ID
+Enable Developer mode on discord. 
+To do it, open your discord user settings. Now find "Behaviour"
+Here enable it.
+Now go to any server where you want to spam those money messages.
+I recommend your own server, or the other server will surely ban or mute you. Followingly,Discord might ban you too.
+Click on the channel where you want to send commands. To do it, right click it and click "Copy Id'. If you are on touchscreen, press and hold the channel.
