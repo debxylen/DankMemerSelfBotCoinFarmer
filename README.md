@@ -1,5 +1,6 @@
 # DankMemerSelfBotCoinFarmer
 This is against Discord TermsOfService and you can be banned for this. Use it at your own risk. 
+## The empty file 'token' is necessary for the app to work. The app writes the token in it so that you dont have to paste it again and again. In case you want to change and use a different token, empty the 'token' file and paste the new token in the 'token' file. Token resets everytime you change your discord password.
 ## Note: The token is not Bot token. You have to enter your user token.
 ## Dont know your user token???
 ## Dont worry :)
