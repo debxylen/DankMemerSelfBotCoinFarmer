@@ -22,3 +22,5 @@ Here enable it.
 Now go to any server where you want to spam those money messages.
 I recommend your own server, or the other server will surely ban or mute you. Followingly,Discord might ban you too.
 Click on the channel where you want to send commands. To do it, right click it and click "Copy Id'. If you are on touchscreen, press and hold the channel.
+
+# Feel free to open any issue!
